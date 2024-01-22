@@ -1,10 +1,5 @@
-<div>
-   <a href="https://github.com/Ezequiel-hcj">
-      <img style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&show_icons=true&theme=github_dark_dimmed)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed)
 
     
 <div style="display: inline_block"><br>
