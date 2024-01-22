@@ -33,15 +33,3 @@ Oi, eu sou Ezequiel Aragão! 👨‍💻 Sou um entusiasta de front-end apaixona
 - Bootstrap, Figma
 - Design Responsivo e Acessibilidade
 
-### 🚀 O Que Eu Amo
-
-- Desenvolver interfaces intuitivas e atraentes.
-- Colaborar em projetos inovadores.
-- Compartilhar conhecimento e aprender com a comunidade.
-
-
-### 😄 Fun Fact
-
-Gosto de Jogar/Ler nas horas vagas. Sempre aberto para conversar sobre Tudo!
-
-Vamos construir a web juntos! 🚀
