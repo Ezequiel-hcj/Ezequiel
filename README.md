@@ -1,11 +1,11 @@
 # Olá, Bem-vindo ao meu Github Profile :wave:
 
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&theme=github_dark_dimmed" alt="GitHub Stats">
+<div style="display: flex; justify-content: space-between; width: 100%; height: 150px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&theme=github_dark_dimmed&show_icons=true&count_private=true&hide=prs&layout=compact" width="38.5%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed" width="30%" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed)
+
 
 
 <br>
