@@ -1,6 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&theme=github_dark_dimmed)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed" width="418px">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed)
 
+<br>
 
 <p align="center">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -8,7 +9,6 @@
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </p>
 
- 
 <br>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ezequiel-hcj&bg_color=0d1117&color=539bf5&line=00ffe1&point=ffffff&area=true&hide_border=true)
