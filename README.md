@@ -1,8 +1,7 @@
-  ![](https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&theme=github_dark_dimmed)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed" width="418px">
+![](https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&theme=github_dark_dimmed)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed" width="418px">
 
-<br>
-    
+
 <p align="center">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
