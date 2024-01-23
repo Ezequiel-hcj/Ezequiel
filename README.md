@@ -1,12 +1,18 @@
-![](https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&show_icons=true&theme=github_dark_dimmed)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed)
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&show_icons=true&theme=github_dark_dimmed">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed" width="418px">
+
 </div>
+
+<br>
+    
+<p align="center">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</p>
+
  
 <br>
 
