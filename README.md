@@ -1,9 +1,5 @@
-<div style="display: flex;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&show_icons=true&theme=github_dark_dimmed">
+ <img src="https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&show_icons=true&theme=github_dark_dimmed">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed" width="418px">
-
-</div>
 
 <br>
     
