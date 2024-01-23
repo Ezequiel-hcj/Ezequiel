@@ -1,5 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&show_icons=true&theme=github_dark_dimmed)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=github_dark_dimmed)
+![](https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&show_icons=true&theme=github_dark_dimmed)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,7 +9,7 @@
  
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ezequiel-hcj&bg_color=0d1117&color=539bf5&line=00ffe1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ezequiel-hcj&bg_color=0d1117&color=539bf5&line=00ffe1&point=ffffff&area=true&hide_border=true)
  
 ### Redes:
  
