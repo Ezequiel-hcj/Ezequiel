@@ -1,5 +1,9 @@
+# Olá, Bem-vindo ao meu Github Profile :wave:
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&theme=github_dark_dimmed)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed" alt="GitHub Stats" style="height: 195px;">
+
 
 <br>
 
