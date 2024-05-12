@@ -15,7 +15,7 @@
 
 <br>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ezequiel-hcj&bg_color=0d1117&color=539bf5&line=00ffe1&point=ffffff&area=true&hide_border=true)
+
  
 ### Redes:
  
