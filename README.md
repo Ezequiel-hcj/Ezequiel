@@ -1,22 +1,5 @@
 # Olá, Bem-vindo ao meu Github Profile :wave:
 
-<div style="display: flex; justify-content: space-between; width: 100%; height: 150px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ezequiel-hcj&theme=github_dark_dimmed&show_icons=true&count_private=true&hide=prs&layout=compact" width="51.5%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-hcj&layout=compact&theme=github_dark_dimmed" width="40%" />
-</div>
-
-<br>
-
-<p align="center">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</p>
-
-<br>
-
-
- 
 ### Redes:
  
 <div> 
@@ -40,3 +23,8 @@ Oi, eu sou Ezequiel Aragão! 👨‍💻 Sou um entusiasta de front-end apaixona
 - Bootstrap, Figma
 - Design Responsivo e Acessibilidade
 
+<p align="center">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</p>
